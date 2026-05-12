@@ -1,6 +1,6 @@
 edad = int(input("Ingrese su edad: "))
 nombre = input("Ingrese su nombre: ")
-
+print("este ejercicio lo modifique por fines educativos")
 # =============================================
 # AND: ambas condiciones deben ser verdaderas
 # =============================================
